@@ -1,1185 +1,1186 @@
-{"nodes":[
-  {
-    "Nombre": "Colombia",
-    "Extranjeros": 293620,
-    "Colombianos": 275714
-  },
-  {
-    "Nombre": "Estados Unidos de América",
-    "Extranjeros": 82135,
-    "Colombianos": 33852
-  },
-  {
-    "Nombre": "Panamá",
-    "Extranjeros": 40647,
-    "Colombianos": 9881
-  },
-  {
-    "Nombre": "España",
-    "Extranjeros": 31428,
-    "Colombianos": 10089
-  },
-  {
-    "Nombre": "México",
-    "Extranjeros": 28537,
-    "Colombianos": 15484
-  },
-  {
-    "Nombre": "Ecuador",
-    "Extranjeros": 21023,
-    "Colombianos": 14949
-  },
-  {
-    "Nombre": "Perú",
-    "Extranjeros": 11905,
-    "Colombianos": 11856
-  },
-  {
-    "Nombre": "Venezuela",
-    "Extranjeros": 10397,
-    "Colombianos": 79306
-  },
-  {
-    "Nombre": "Chile",
-    "Extranjeros": 8533,
-    "Colombianos": 11126
-  },
-  {
-    "Nombre": "Brasil",
-    "Extranjeros": 6595,
-    "Colombianos": 21246
-  },
-  {
-    "Nombre": "Aruba",
-    "Extranjeros": 6027,
-    "Colombianos": 4
-  },
-  {
-    "Nombre": "El Salvador",
-    "Extranjeros": 5641,
-    "Colombianos": 2319
-  },
-  {
-    "Nombre": "Argentina",
-    "Extranjeros": 5373,
-    "Colombianos": 13786
-  },
-  {
-    "Nombre": "Francia",
-    "Extranjeros": 4195,
-    "Colombianos": 4554
-  },
-  {
-    "Nombre": "Canadá",
-    "Extranjeros": 4131,
-    "Colombianos": 2935
-  },
-  {
-    "Nombre": "República Dominicana",
-    "Extranjeros": 3887,
-    "Colombianos": 1482
-  },
-  {
-    "Nombre": "Reino Unido de Gran Bretaña e Irlanda del Norte",
-    "Extranjeros": 3643,
-    "Colombianos": 3500
-  },
-  {
-    "Nombre": "Alemania",
-    "Extranjeros": 3238,
-    "Colombianos": 4928
-  },
-  {
-    "Nombre": "Costa Rica",
-    "Extranjeros": 2500,
-    "Colombianos": 3520
-  },
-  {
-    "Nombre": "Países Bajos",
-    "Extranjeros": 1869,
-    "Colombianos": 3666
-  },
-  {
-    "Nombre": "Cuba",
-    "Extranjeros": 1675,
-    "Colombianos": 817
-  },
-  {
-    "Nombre": "Turquía",
-    "Extranjeros": 1563,
-    "Colombianos": 495
-  },
-  {
-    "Nombre": "Italia",
-    "Extranjeros": 1266,
-    "Colombianos": 3284
-  },
-  {
-    "Nombre": "Guatemala",
-    "Extranjeros": 979,
-    "Colombianos": 1901
-  },
-  {
-    "Nombre": "Bolivia",
-    "Extranjeros": 740,
-    "Colombianos": 2092
-  },
-  {
-    "Nombre": "Puerto Rico/Territorio de Estados Unidos",
-    "Extranjeros": 607,
-    "Colombianos": 4
-  },
-  {
-    "Nombre": "Uruguay",
-    "Extranjeros": 600,
-    "Colombianos": 1445
-  },
-  {
-    "Nombre": "China",
-    "Extranjeros": 579,
-    "Colombianos": 1353
-  },
-  {
-    "Nombre": "Suiza",
-    "Extranjeros": 375,
-    "Colombianos": 1233
-  },
-  {
-    "Nombre": "Australia",
-    "Extranjeros": 369,
-    "Colombianos": 1187
-  },
-  {
-    "Nombre": "Paraguay",
-    "Extranjeros": 345,
-    "Colombianos": 924
-  },
-  {
-    "Nombre": "Israel",
-    "Extranjeros": 223,
-    "Colombianos": 1042
-  },
-  {
-    "Nombre": "Honduras",
-    "Extranjeros": 221,
-    "Colombianos": 1046
-  },
-  {
-    "Nombre": "Portugal",
-    "Extranjeros": 208,
-    "Colombianos": 807
-  },
-  {
-    "Nombre": "Federación de Rusia",
-    "Extranjeros": 155,
-    "Colombianos": 400
-  },
-  {
-    "Nombre": "Emiratos Árabes",
-    "Extranjeros": 154,
-    "Colombianos": 34
-  },
-  {
-    "Nombre": "Bélgica",
-    "Extranjeros": 151,
-    "Colombianos": 951
-  },
-  {
-    "Nombre": "Japón",
-    "Extranjeros": 141,
-    "Colombianos": 762
-  },
-  {
-    "Nombre": "Nicaragua",
-    "Extranjeros": 135,
-    "Colombianos": 336
-  },
-  {
-    "Nombre": "Jamaica",
-    "Extranjeros": 105,
-    "Colombianos": 88
-  },
-  {
-    "Nombre": "Suecia",
-    "Extranjeros": 90,
-    "Colombianos": 443
-  },
-  {
-    "Nombre": "Trinidad y Tobago",
-    "Extranjeros": 82,
-    "Colombianos": 130
-  },
-  {
-    "Nombre": "India",
-    "Extranjeros": 76,
-    "Colombianos": 627
-  },
-  {
-    "Nombre": "Austria",
-    "Extranjeros": 74,
-    "Colombianos": 502
-  },
-  {
-    "Nombre": "Hong Kong",
-    "Extranjeros": 73,
-    "Colombianos": 14
-  },
-  {
-    "Nombre": "Curazao",
-    "Extranjeros": 59,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Noruega",
-    "Extranjeros": 42,
-    "Colombianos": 279
-  },
-  {
-    "Nombre": "Nueva Zelanda",
-    "Extranjeros": 41,
-    "Colombianos": 279
-  },
-  {
-    "Nombre": "Arabia Saudita",
-    "Extranjeros": 40,
-    "Colombianos": 11
-  },
-  {
-    "Nombre": "Malta",
-    "Extranjeros": 38,
-    "Colombianos": 19
-  },
-  {
-    "Nombre": "Tailandia",
-    "Extranjeros": 37,
-    "Colombianos": 20
-  },
-  {
-    "Nombre": "Polonia",
-    "Extranjeros": 36,
-    "Colombianos": 433
-  },
-  {
-    "Nombre": "Dinamarca",
-    "Extranjeros": 35,
-    "Colombianos": 270
-  },
-  {
-    "Nombre": "República de Corea",
-    "Extranjeros": 33,
-    "Colombianos": 673
-  },
-  {
-    "Nombre": "Egipto",
-    "Extranjeros": 31,
-    "Colombianos": 45
-  },
-  {
-    "Nombre": "Grecia",
-    "Extranjeros": 30,
-    "Colombianos": 133
-  },
-  {
-    "Nombre": "Líbano",
-    "Extranjeros": 26,
-    "Colombianos": 45
-  },
-  {
-    "Nombre": "Barbados",
-    "Extranjeros": 25,
-    "Colombianos": 30
-  },
-  {
-    "Nombre": "República Checa",
-    "Extranjeros": 21,
-    "Colombianos": 168
-  },
-  {
-    "Nombre": "Hungría",
-    "Extranjeros": 21,
-    "Colombianos": 121
-  },
-  {
-    "Nombre": "Sudáfrica",
-    "Extranjeros": 21,
-    "Colombianos": 109
-  },
-  {
-    "Nombre": "Singapur",
-    "Extranjeros": 19,
-    "Colombianos": 50
-  },
-  {
-    "Nombre": "Bahamas",
-    "Extranjeros": 17,
-    "Colombianos": 37
-  },
-  {
-    "Nombre": "Belice",
-    "Extranjeros": 16,
-    "Colombianos": 21
-  },
-  {
-    "Nombre": "República de Irlanda",
-    "Extranjeros": 16,
-    "Colombianos": 505
-  },
-  {
-    "Nombre": "Qatar",
-    "Extranjeros": 15,
-    "Colombianos": 1
-  },
-  {
-    "Nombre": "Turkmenistán",
-    "Extranjeros": 15,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Croacia",
-    "Extranjeros": 14,
-    "Colombianos": 122
-  },
-  {
-    "Nombre": "Haití",
-    "Extranjeros": 14,
-    "Colombianos": 24
-  },
-  {
-    "Nombre": "Ucrania",
-    "Extranjeros": 14,
-    "Colombianos": 76
-  },
-  {
-    "Nombre": "Indonesia",
-    "Extranjeros": 13,
-    "Colombianos": 78
-  },
-  {
-    "Nombre": "Argelia",
-    "Extranjeros": 12,
-    "Colombianos": 8
-  },
-  {
-    "Nombre": "Vietnam",
-    "Extranjeros": 12,
-    "Colombianos": 15
-  },
-  {
-    "Nombre": "Guyana",
-    "Extranjeros": 11,
-    "Colombianos": 48
-  },
-  {
-    "Nombre": "Finlandia",
-    "Extranjeros": 10,
-    "Colombianos": 98
-  },
-  {
-    "Nombre": "Luxemburgo",
-    "Extranjeros": 10,
-    "Colombianos": 13
-  },
-  {
-    "Nombre": "Costa de Marfil",
-    "Extranjeros": 9,
-    "Colombianos": 3
-  },
-  {
-    "Nombre": "Irán",
-    "Extranjeros": 9,
-    "Colombianos": 20
-  },
-  {
-    "Nombre": "Marruecos",
-    "Extranjeros": 9,
-    "Colombianos": 39
-  },
-  {
-    "Nombre": "Islandia",
-    "Extranjeros": 8,
-    "Colombianos": 20
-  },
-  {
-    "Nombre": "Nigeria",
-    "Extranjeros": 8,
-    "Colombianos": 19
-  },
-  {
-    "Nombre": "Kazajistán",
-    "Extranjeros": 6,
-    "Colombianos": 9
-  },
-  {
-    "Nombre": "Omán",
-    "Extranjeros": 6,
-    "Colombianos": 8
-  },
-  {
-    "Nombre": "Surinam",
-    "Extranjeros": 6,
-    "Colombianos": 37
-  },
-  {
-    "Nombre": "Bermudas/Territorio Británico de Ultramar",
-    "Extranjeros": 5,
-    "Colombianos": 5
-  },
-  {
-    "Nombre": "Kenia",
-    "Extranjeros": 5,
-    "Colombianos": 24
-  },
-  {
-    "Nombre": "Taiwán",
-    "Extranjeros": 5,
-    "Colombianos": 128
-  },
-  {
-    "Nombre": "Albania",
-    "Extranjeros": 4,
-    "Colombianos": 5
-  },
-  {
-    "Nombre": "Bahréin",
-    "Extranjeros": 4,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Bulgaria",
-    "Extranjeros": 4,
-    "Colombianos": 57
-  },
-  {
-    "Nombre": "Filipinas",
-    "Extranjeros": 4,
-    "Colombianos": 400
-  },
-  {
-    "Nombre": "Guinea Ecuatorial",
-    "Extranjeros": 4,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Lituania",
-    "Extranjeros": 4,
-    "Colombianos": 54
-  },
-  {
-    "Nombre": "Rumania",
-    "Extranjeros": 4,
-    "Colombianos": 178
-  },
-  {
-    "Nombre": "Serbia",
-    "Extranjeros": 4,
-    "Colombianos": 13
-  },
-  {
-    "Nombre": "Angola",
-    "Extranjeros": 3,
-    "Colombianos": 2
-  },
-  {
-    "Nombre": "Bosnia y Herzegovina",
-    "Extranjeros": 3,
-    "Colombianos": 4
-  },
-  {
-    "Nombre": "Islas Caimán/Territorio Británico de Ultramar",
-    "Extranjeros": 3,
-    "Colombianos": 9
-  },
-  {
-    "Nombre": "Eslovenia",
-    "Extranjeros": 3,
-    "Colombianos": 33
-  },
-  {
-    "Nombre": "Georgia",
-    "Extranjeros": 3,
-    "Colombianos": 5
-  },
-  {
-    "Nombre": "Iraq",
-    "Extranjeros": 3,
-    "Colombianos": 2
-  },
-  {
-    "Nombre": "Kuwait",
-    "Extranjeros": 3,
-    "Colombianos": 4
-  },
-  {
-    "Nombre": "Malasia",
-    "Extranjeros": 3,
-    "Colombianos": 49
-  },
-  {
-    "Nombre": "Mónaco",
-    "Extranjeros": 3,
-    "Colombianos": 1
-  },
-  {
-    "Nombre": "Palestina",
-    "Extranjeros": 3,
-    "Colombianos": 2
-  },
-  {
-    "Nombre": "San  Vicente y las Granadinas",
-    "Extranjeros": 3,
-    "Colombianos": 4
-  },
-  {
-    "Nombre": "Afganistán",
-    "Extranjeros": 2,
-    "Colombianos": 1
-  },
-  {
-    "Nombre": "Camerún",
-    "Extranjeros": 2,
-    "Colombianos": 3
-  },
-  {
-    "Nombre": "Chipre",
-    "Extranjeros": 2,
-    "Colombianos": 26
-  },
-  {
-    "Nombre": "Gibraltar/Territorio Británico de Ultramar",
-    "Extranjeros": 2,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Guadalupe/Territorio Francés",
-    "Extranjeros": 2,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Guayana Francesa/Departamento de Ultramar Francés",
-    "Extranjeros": 2,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Polinesia Francesa/Colectividad de Ultramar Francesa",
-    "Extranjeros": 2,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "República Democrática Popular de Corea",
-    "Extranjeros": 2,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Sierra Leona",
-    "Extranjeros": 2,
-    "Colombianos": 2
-  },
-  {
-    "Nombre": "Uzbekistán",
-    "Extranjeros": 2,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Islas Vírgenes Estadounidenses/Territorio de Estados Unidos",
-    "Extranjeros": 2,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Antigua y Barbuda",
-    "Extranjeros": 1,
-    "Colombianos": 4
-  },
-  {
-    "Nombre": "República de Armenia",
-    "Extranjeros": 1,
-    "Colombianos": 4
-  },
-  {
-    "Nombre": "Azerbaiyán",
-    "Extranjeros": 1,
-    "Colombianos": 7
-  },
-  {
-    "Nombre": "Bangladesh",
-    "Extranjeros": 1,
-    "Colombianos": 6
-  },
-  {
-    "Nombre": "República de Belarús",
-    "Extranjeros": 1,
-    "Colombianos": 12
-  },
-  {
-    "Nombre": "Brunei Darussalam",
-    "Extranjeros": 1,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Camboya",
-    "Extranjeros": 1,
-    "Colombianos": 6
-  },
-  {
-    "Nombre": "Eslovaquia",
-    "Extranjeros": 1,
-    "Colombianos": 93
-  },
-  {
-    "Nombre": "Etiopia",
-    "Extranjeros": 1,
-    "Colombianos": 3
-  },
-  {
-    "Nombre": "Guinea",
-    "Extranjeros": 1,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Isla de Man",
-    "Extranjeros": 1,
-    "Colombianos": 1
-  },
-  {
-    "Nombre": "Letonia",
-    "Extranjeros": 1,
-    "Colombianos": 24
-  },
-  {
-    "Nombre": "Maldivas",
-    "Extranjeros": 1,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Islas Marshall",
-    "Extranjeros": 1,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Mauricio",
-    "Extranjeros": 1,
-    "Colombianos": 9
-  },
-  {
-    "Nombre": "Montenegro",
-    "Extranjeros": 1,
-    "Colombianos": 6
-  },
-  {
-    "Nombre": "Nauru",
-    "Extranjeros": 1,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "República CentroÁfricana",
-    "Extranjeros": 1,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Rwanda",
-    "Extranjeros": 1,
-    "Colombianos": 5
-  },
-  {
-    "Nombre": "Santa Lucia",
-    "Extranjeros": 1,
-    "Colombianos": 7
-  },
-  {
-    "Nombre": "Sudán",
-    "Extranjeros": 1,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "República de Tayikistán",
-    "Extranjeros": 1,
-    "Colombianos": 0
-  },
-  {
-    "Nombre": "Uganda",
-    "Extranjeros": 1,
-    "Colombianos": 10
-  }
-],
-"links":[
-  {
-    "Source": "Estados Unidos de América",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Panamá",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "España",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "México",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Ecuador",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Perú",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Venezuela",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Chile",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Brasil",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Aruba",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "El Salvador",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Argentina",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Francia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Canadá",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "República Dominicana",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Reino Unido de Gran Bretaña e Irlanda del Norte",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Alemania",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Costa Rica",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Países Bajos",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Cuba",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Turquía",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Italia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Guatemala",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Bolivia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Puerto Rico/Territorio de Estados Unidos",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Uruguay",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "China",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Suiza",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Australia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Paraguay",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Israel",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Honduras",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Portugal",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Federación de Rusia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Emiratos Árabes",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Bélgica",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Japón",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Nicaragua",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Jamaica",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Suecia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Trinidad y Tobago",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "India",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Austria",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Hong Kong",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Noruega",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Nueva Zelanda",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Arabia Saudita",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Malta",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Tailandia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Polonia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Dinamarca",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "República de Corea",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Egipto",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Grecia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Líbano",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Barbados",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "República Checa",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Hungría",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Sudáfrica",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Singapur",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Bahamas",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Belice",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "República de Irlanda",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Qatar",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Croacia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Haití",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Ucrania",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Indonesia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Argelia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Vietnam",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Guyana",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Finlandia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Luxemburgo",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Costa de Marfil",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Irán",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Marruecos",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Islandia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Nigeria",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Kazajistán",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Omán",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Surinam",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Bermudas/Territorio Británico de Ultramar",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Kenia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Taiwán",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Albania",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Bulgaria",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Filipinas",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Lituania",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Rumania",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Serbia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Angola",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Bosnia y Herzegovina",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Islas Caimán/Territorio Británico de Ultramar",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Eslovenia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Georgia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Iraq",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Kuwait",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Malasia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Mónaco",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Palestina",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "San  Vicente y las Granadinas",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Afganistán",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Camerún",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Chipre",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Sierra Leona",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Antigua y Barbuda",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "República de Armenia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Azerbaiyán",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Bangladesh",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "República de Belarús",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Camboya",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Eslovaquia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Etiopia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Isla de Man",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Letonia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Mauricio",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Montenegro",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Rwanda",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Santa Lucia",
-    "Target": "Colombia"
-  },
-  {
-    "Source": "Uganda",
-    "Target": "Colombia"
-  }
-  ]
+{
+	"nodes": [
+		{
+			"Nombre": "Colombia",
+			"Extranjeros": 293620,
+			"Colombianos": 275714
+		},
+		{
+			"Nombre": "Estados Unidos de América",
+			"Extranjeros": 82135,
+			"Colombianos": 33852
+		},
+		{
+			"Nombre": "Panamá",
+			"Extranjeros": 40647,
+			"Colombianos": 9881
+		},
+		{
+			"Nombre": "España",
+			"Extranjeros": 31428,
+			"Colombianos": 10089
+		},
+		{
+			"Nombre": "México",
+			"Extranjeros": 28537,
+			"Colombianos": 15484
+		},
+		{
+			"Nombre": "Ecuador",
+			"Extranjeros": 21023,
+			"Colombianos": 14949
+		},
+		{
+			"Nombre": "Perú",
+			"Extranjeros": 11905,
+			"Colombianos": 11856
+		},
+		{
+			"Nombre": "Venezuela",
+			"Extranjeros": 10397,
+			"Colombianos": 79306
+		},
+		{
+			"Nombre": "Chile",
+			"Extranjeros": 8533,
+			"Colombianos": 11126
+		},
+		{
+			"Nombre": "Brasil",
+			"Extranjeros": 6595,
+			"Colombianos": 21246
+		},
+		{
+			"Nombre": "Aruba",
+			"Extranjeros": 6027,
+			"Colombianos": 4
+		},
+		{
+			"Nombre": "El Salvador",
+			"Extranjeros": 5641,
+			"Colombianos": 2319
+		},
+		{
+			"Nombre": "Argentina",
+			"Extranjeros": 5373,
+			"Colombianos": 13786
+		},
+		{
+			"Nombre": "Francia",
+			"Extranjeros": 4195,
+			"Colombianos": 4554
+		},
+		{
+			"Nombre": "Canadá",
+			"Extranjeros": 4131,
+			"Colombianos": 2935
+		},
+		{
+			"Nombre": "República Dominicana",
+			"Extranjeros": 3887,
+			"Colombianos": 1482
+		},
+		{
+			"Nombre": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+			"Extranjeros": 3643,
+			"Colombianos": 3500
+		},
+		{
+			"Nombre": "Alemania",
+			"Extranjeros": 3238,
+			"Colombianos": 4928
+		},
+		{
+			"Nombre": "Costa Rica",
+			"Extranjeros": 2500,
+			"Colombianos": 3520
+		},
+		{
+			"Nombre": "Países Bajos",
+			"Extranjeros": 1869,
+			"Colombianos": 3666
+		},
+		{
+			"Nombre": "Cuba",
+			"Extranjeros": 1675,
+			"Colombianos": 817
+		},
+		{
+			"Nombre": "Turquía",
+			"Extranjeros": 1563,
+			"Colombianos": 495
+		},
+		{
+			"Nombre": "Italia",
+			"Extranjeros": 1266,
+			"Colombianos": 3284
+		},
+		{
+			"Nombre": "Guatemala",
+			"Extranjeros": 979,
+			"Colombianos": 1901
+		},
+		{
+			"Nombre": "Bolivia",
+			"Extranjeros": 740,
+			"Colombianos": 2092
+		},
+		{
+			"Nombre": "Puerto Rico/Territorio de Estados Unidos",
+			"Extranjeros": 607,
+			"Colombianos": 4
+		},
+		{
+			"Nombre": "Uruguay",
+			"Extranjeros": 600,
+			"Colombianos": 1445
+		},
+		{
+			"Nombre": "China",
+			"Extranjeros": 579,
+			"Colombianos": 1353
+		},
+		{
+			"Nombre": "Suiza",
+			"Extranjeros": 375,
+			"Colombianos": 1233
+		},
+		{
+			"Nombre": "Australia",
+			"Extranjeros": 369,
+			"Colombianos": 1187
+		},
+		{
+			"Nombre": "Paraguay",
+			"Extranjeros": 345,
+			"Colombianos": 924
+		},
+		{
+			"Nombre": "Israel",
+			"Extranjeros": 223,
+			"Colombianos": 1042
+		},
+		{
+			"Nombre": "Honduras",
+			"Extranjeros": 221,
+			"Colombianos": 1046
+		},
+		{
+			"Nombre": "Portugal",
+			"Extranjeros": 208,
+			"Colombianos": 807
+		},
+		{
+			"Nombre": "Federación de Rusia",
+			"Extranjeros": 155,
+			"Colombianos": 400
+		},
+		{
+			"Nombre": "Emiratos Árabes",
+			"Extranjeros": 154,
+			"Colombianos": 34
+		},
+		{
+			"Nombre": "Bélgica",
+			"Extranjeros": 151,
+			"Colombianos": 951
+		},
+		{
+			"Nombre": "Japón",
+			"Extranjeros": 141,
+			"Colombianos": 762
+		},
+		{
+			"Nombre": "Nicaragua",
+			"Extranjeros": 135,
+			"Colombianos": 336
+		},
+		{
+			"Nombre": "Jamaica",
+			"Extranjeros": 105,
+			"Colombianos": 88
+		},
+		{
+			"Nombre": "Suecia",
+			"Extranjeros": 90,
+			"Colombianos": 443
+		},
+		{
+			"Nombre": "Trinidad y Tobago",
+			"Extranjeros": 82,
+			"Colombianos": 130
+		},
+		{
+			"Nombre": "India",
+			"Extranjeros": 76,
+			"Colombianos": 627
+		},
+		{
+			"Nombre": "Austria",
+			"Extranjeros": 74,
+			"Colombianos": 502
+		},
+		{
+			"Nombre": "Hong Kong",
+			"Extranjeros": 73,
+			"Colombianos": 14
+		},
+		{
+			"Nombre": "Curazao",
+			"Extranjeros": 59,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Noruega",
+			"Extranjeros": 42,
+			"Colombianos": 279
+		},
+		{
+			"Nombre": "Nueva Zelanda",
+			"Extranjeros": 41,
+			"Colombianos": 279
+		},
+		{
+			"Nombre": "Arabia Saudita",
+			"Extranjeros": 40,
+			"Colombianos": 11
+		},
+		{
+			"Nombre": "Malta",
+			"Extranjeros": 38,
+			"Colombianos": 19
+		},
+		{
+			"Nombre": "Tailandia",
+			"Extranjeros": 37,
+			"Colombianos": 20
+		},
+		{
+			"Nombre": "Polonia",
+			"Extranjeros": 36,
+			"Colombianos": 433
+		},
+		{
+			"Nombre": "Dinamarca",
+			"Extranjeros": 35,
+			"Colombianos": 270
+		},
+		{
+			"Nombre": "República de Corea",
+			"Extranjeros": 33,
+			"Colombianos": 673
+		},
+		{
+			"Nombre": "Egipto",
+			"Extranjeros": 31,
+			"Colombianos": 45
+		},
+		{
+			"Nombre": "Grecia",
+			"Extranjeros": 30,
+			"Colombianos": 133
+		},
+		{
+			"Nombre": "Líbano",
+			"Extranjeros": 26,
+			"Colombianos": 45
+		},
+		{
+			"Nombre": "Barbados",
+			"Extranjeros": 25,
+			"Colombianos": 30
+		},
+		{
+			"Nombre": "República Checa",
+			"Extranjeros": 21,
+			"Colombianos": 168
+		},
+		{
+			"Nombre": "Hungría",
+			"Extranjeros": 21,
+			"Colombianos": 121
+		},
+		{
+			"Nombre": "Sudáfrica",
+			"Extranjeros": 21,
+			"Colombianos": 109
+		},
+		{
+			"Nombre": "Singapur",
+			"Extranjeros": 19,
+			"Colombianos": 50
+		},
+		{
+			"Nombre": "Bahamas",
+			"Extranjeros": 17,
+			"Colombianos": 37
+		},
+		{
+			"Nombre": "Belice",
+			"Extranjeros": 16,
+			"Colombianos": 21
+		},
+		{
+			"Nombre": "República de Irlanda",
+			"Extranjeros": 16,
+			"Colombianos": 505
+		},
+		{
+			"Nombre": "Qatar",
+			"Extranjeros": 15,
+			"Colombianos": 1
+		},
+		{
+			"Nombre": "Turkmenistán",
+			"Extranjeros": 15,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Croacia",
+			"Extranjeros": 14,
+			"Colombianos": 122
+		},
+		{
+			"Nombre": "Haití",
+			"Extranjeros": 14,
+			"Colombianos": 24
+		},
+		{
+			"Nombre": "Ucrania",
+			"Extranjeros": 14,
+			"Colombianos": 76
+		},
+		{
+			"Nombre": "Indonesia",
+			"Extranjeros": 13,
+			"Colombianos": 78
+		},
+		{
+			"Nombre": "Argelia",
+			"Extranjeros": 12,
+			"Colombianos": 8
+		},
+		{
+			"Nombre": "Vietnam",
+			"Extranjeros": 12,
+			"Colombianos": 15
+		},
+		{
+			"Nombre": "Guyana",
+			"Extranjeros": 11,
+			"Colombianos": 48
+		},
+		{
+			"Nombre": "Finlandia",
+			"Extranjeros": 10,
+			"Colombianos": 98
+		},
+		{
+			"Nombre": "Luxemburgo",
+			"Extranjeros": 10,
+			"Colombianos": 13
+		},
+		{
+			"Nombre": "Costa de Marfil",
+			"Extranjeros": 9,
+			"Colombianos": 3
+		},
+		{
+			"Nombre": "Irán",
+			"Extranjeros": 9,
+			"Colombianos": 20
+		},
+		{
+			"Nombre": "Marruecos",
+			"Extranjeros": 9,
+			"Colombianos": 39
+		},
+		{
+			"Nombre": "Islandia",
+			"Extranjeros": 8,
+			"Colombianos": 20
+		},
+		{
+			"Nombre": "Nigeria",
+			"Extranjeros": 8,
+			"Colombianos": 19
+		},
+		{
+			"Nombre": "Kazajistán",
+			"Extranjeros": 6,
+			"Colombianos": 9
+		},
+		{
+			"Nombre": "Omán",
+			"Extranjeros": 6,
+			"Colombianos": 8
+		},
+		{
+			"Nombre": "Surinam",
+			"Extranjeros": 6,
+			"Colombianos": 37
+		},
+		{
+			"Nombre": "Bermudas/Territorio Británico de Ultramar",
+			"Extranjeros": 5,
+			"Colombianos": 5
+		},
+		{
+			"Nombre": "Kenia",
+			"Extranjeros": 5,
+			"Colombianos": 24
+		},
+		{
+			"Nombre": "Taiwán",
+			"Extranjeros": 5,
+			"Colombianos": 128
+		},
+		{
+			"Nombre": "Albania",
+			"Extranjeros": 4,
+			"Colombianos": 5
+		},
+		{
+			"Nombre": "Bahréin",
+			"Extranjeros": 4,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Bulgaria",
+			"Extranjeros": 4,
+			"Colombianos": 57
+		},
+		{
+			"Nombre": "Filipinas",
+			"Extranjeros": 4,
+			"Colombianos": 400
+		},
+		{
+			"Nombre": "Guinea Ecuatorial",
+			"Extranjeros": 4,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Lituania",
+			"Extranjeros": 4,
+			"Colombianos": 54
+		},
+		{
+			"Nombre": "Rumania",
+			"Extranjeros": 4,
+			"Colombianos": 178
+		},
+		{
+			"Nombre": "Serbia",
+			"Extranjeros": 4,
+			"Colombianos": 13
+		},
+		{
+			"Nombre": "Angola",
+			"Extranjeros": 3,
+			"Colombianos": 2
+		},
+		{
+			"Nombre": "Bosnia y Herzegovina",
+			"Extranjeros": 3,
+			"Colombianos": 4
+		},
+		{
+			"Nombre": "Islas Caimán/Territorio Británico de Ultramar",
+			"Extranjeros": 3,
+			"Colombianos": 9
+		},
+		{
+			"Nombre": "Eslovenia",
+			"Extranjeros": 3,
+			"Colombianos": 33
+		},
+		{
+			"Nombre": "Georgia",
+			"Extranjeros": 3,
+			"Colombianos": 5
+		},
+		{
+			"Nombre": "Iraq",
+			"Extranjeros": 3,
+			"Colombianos": 2
+		},
+		{
+			"Nombre": "Kuwait",
+			"Extranjeros": 3,
+			"Colombianos": 4
+		},
+		{
+			"Nombre": "Malasia",
+			"Extranjeros": 3,
+			"Colombianos": 49
+		},
+		{
+			"Nombre": "Mónaco",
+			"Extranjeros": 3,
+			"Colombianos": 1
+		},
+		{
+			"Nombre": "Palestina",
+			"Extranjeros": 3,
+			"Colombianos": 2
+		},
+		{
+			"Nombre": "San  Vicente y las Granadinas",
+			"Extranjeros": 3,
+			"Colombianos": 4
+		},
+		{
+			"Nombre": "Afganistán",
+			"Extranjeros": 2,
+			"Colombianos": 1
+		},
+		{
+			"Nombre": "Camerún",
+			"Extranjeros": 2,
+			"Colombianos": 3
+		},
+		{
+			"Nombre": "Chipre",
+			"Extranjeros": 2,
+			"Colombianos": 26
+		},
+		{
+			"Nombre": "Gibraltar/Territorio Británico de Ultramar",
+			"Extranjeros": 2,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Guadalupe/Territorio Francés",
+			"Extranjeros": 2,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Guayana Francesa/Departamento de Ultramar Francés",
+			"Extranjeros": 2,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Polinesia Francesa/Colectividad de Ultramar Francesa",
+			"Extranjeros": 2,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "República Democrática Popular de Corea",
+			"Extranjeros": 2,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Sierra Leona",
+			"Extranjeros": 2,
+			"Colombianos": 2
+		},
+		{
+			"Nombre": "Uzbekistán",
+			"Extranjeros": 2,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Islas Vírgenes Estadounidenses/Territorio de Estados Unidos",
+			"Extranjeros": 2,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Antigua y Barbuda",
+			"Extranjeros": 1,
+			"Colombianos": 4
+		},
+		{
+			"Nombre": "República de Armenia",
+			"Extranjeros": 1,
+			"Colombianos": 4
+		},
+		{
+			"Nombre": "Azerbaiyán",
+			"Extranjeros": 1,
+			"Colombianos": 7
+		},
+		{
+			"Nombre": "Bangladesh",
+			"Extranjeros": 1,
+			"Colombianos": 6
+		},
+		{
+			"Nombre": "República de Belarús",
+			"Extranjeros": 1,
+			"Colombianos": 12
+		},
+		{
+			"Nombre": "Brunei Darussalam",
+			"Extranjeros": 1,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Camboya",
+			"Extranjeros": 1,
+			"Colombianos": 6
+		},
+		{
+			"Nombre": "Eslovaquia",
+			"Extranjeros": 1,
+			"Colombianos": 93
+		},
+		{
+			"Nombre": "Etiopia",
+			"Extranjeros": 1,
+			"Colombianos": 3
+		},
+		{
+			"Nombre": "Guinea",
+			"Extranjeros": 1,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Isla de Man",
+			"Extranjeros": 1,
+			"Colombianos": 1
+		},
+		{
+			"Nombre": "Letonia",
+			"Extranjeros": 1,
+			"Colombianos": 24
+		},
+		{
+			"Nombre": "Maldivas",
+			"Extranjeros": 1,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Islas Marshall",
+			"Extranjeros": 1,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Mauricio",
+			"Extranjeros": 1,
+			"Colombianos": 9
+		},
+		{
+			"Nombre": "Montenegro",
+			"Extranjeros": 1,
+			"Colombianos": 6
+		},
+		{
+			"Nombre": "Nauru",
+			"Extranjeros": 1,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "República CentroÁfricana",
+			"Extranjeros": 1,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Rwanda",
+			"Extranjeros": 1,
+			"Colombianos": 5
+		},
+		{
+			"Nombre": "Santa Lucia",
+			"Extranjeros": 1,
+			"Colombianos": 7
+		},
+		{
+			"Nombre": "Sudán",
+			"Extranjeros": 1,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "República de Tayikistán",
+			"Extranjeros": 1,
+			"Colombianos": 0
+		},
+		{
+			"Nombre": "Uganda",
+			"Extranjeros": 1,
+			"Colombianos": 10
+		}
+	],
+	"links": [
+		{
+			"Source": "Estados Unidos de América",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Panamá",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "España",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "México",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Ecuador",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Perú",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Venezuela",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Chile",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Brasil",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Aruba",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "El Salvador",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Argentina",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Francia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Canadá",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "República Dominicana",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Alemania",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Costa Rica",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Países Bajos",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Cuba",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Turquía",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Italia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Guatemala",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Bolivia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Puerto Rico/Territorio de Estados Unidos",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Uruguay",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "China",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Suiza",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Australia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Paraguay",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Israel",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Honduras",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Portugal",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Federación de Rusia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Emiratos Árabes",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Bélgica",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Japón",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Nicaragua",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Jamaica",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Suecia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Trinidad y Tobago",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "India",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Austria",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Hong Kong",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Noruega",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Nueva Zelanda",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Arabia Saudita",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Malta",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Tailandia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Polonia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Dinamarca",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "República de Corea",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Egipto",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Grecia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Líbano",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Barbados",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "República Checa",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Hungría",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Sudáfrica",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Singapur",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Bahamas",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Belice",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "República de Irlanda",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Qatar",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Croacia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Haití",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Ucrania",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Indonesia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Argelia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Vietnam",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Guyana",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Finlandia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Luxemburgo",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Costa de Marfil",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Irán",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Marruecos",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Islandia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Nigeria",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Kazajistán",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Omán",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Surinam",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Bermudas/Territorio Británico de Ultramar",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Kenia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Taiwán",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Albania",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Bulgaria",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Filipinas",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Lituania",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Rumania",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Serbia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Angola",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Bosnia y Herzegovina",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Islas Caimán/Territorio Británico de Ultramar",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Eslovenia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Georgia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Iraq",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Kuwait",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Malasia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Mónaco",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Palestina",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "San  Vicente y las Granadinas",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Afganistán",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Camerún",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Chipre",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Sierra Leona",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Antigua y Barbuda",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "República de Armenia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Azerbaiyán",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Bangladesh",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "República de Belarús",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Camboya",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Eslovaquia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Etiopia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Isla de Man",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Letonia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Mauricio",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Montenegro",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Rwanda",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Santa Lucia",
+			"Target": "Colombia"
+		},
+		{
+			"Source": "Uganda",
+			"Target": "Colombia"
+		}
+	]
 }
